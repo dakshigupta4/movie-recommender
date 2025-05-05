@@ -7,7 +7,7 @@ st.set_page_config(layout="wide", page_title="Movie Recommender")
 
 # Load data
 movies = pickle.load(open('movies.pkl', 'rb'))
-similarity = pickle.load(open('similarity.pkl', 'rb'))
+similarity = pickle.load(open('small_similarity.pkl', 'rb'))
 
 movie_list = movies['title'].values
 
