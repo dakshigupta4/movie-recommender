@@ -47,7 +47,7 @@ It uses **content-based filtering** powered by **machine learning techniques** l
 
 ## 🙋‍♂️ Developed by
 
-**Srishaan**  
+**Dakshi Gupta**  
 📧 Reach out on [LinkedIn](https://linkedin.com) | 🌐 Check my [GitHub](https://github.com)
 
 ---
